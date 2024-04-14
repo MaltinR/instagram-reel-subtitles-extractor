@@ -18,7 +18,7 @@ Instaloader - For downloading reels for Instagram
 The program will download the reel from Instagram then process it
 
 ```
-python main.py [uri/shortcode] [--blacklist] [--langlist]
+python main.py [uri/shortcode] [--blacklist] [--langlist] [--verify] [--seq]
 ```
 
 ## Weak point
